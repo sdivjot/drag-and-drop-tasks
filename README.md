@@ -1,2 +1,2 @@
 # drag-and-drop-tasks
-My submission for the Graydot internship assignment
+Implementing drag-n-drop implementation from scratch using purely HTML-CSS-JS
